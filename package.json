@@ -1,0 +1,13 @@
+{
+  "name": "@hnimtadd/run-sdk",
+  "description": "run sdk for js lambda",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hnimtadd/run-sdk.git"
+  },
+  "devDependencies": {
+    "rollup": "^2.4.0"
+  }
+}
